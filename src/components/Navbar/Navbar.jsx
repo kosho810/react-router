@@ -5,7 +5,7 @@ export default function Navbar() {
   return <>
   <nav className="navbar navbar-expand-lg py-3 ">
   <div className="container">
-    <Link className="navbar-brand fw-bold text-white " to={'/'}>START FRAMEWORK</Link>
+    <Link className="navbar-brand fw-bold text-white " to={'/'}>React-Router</Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
